@@ -1,6 +1,6 @@
-# dcgan-lentach_logo_generator
+# Keras DCGAN Lentach Logo generator.
 # This neural network generates the lentach logo.
-### Learning outcome.
+### Result of learn model:
 ![Alt Text](https://github.com/OPHoperHPO/dcgan-lentach-logo-generator/blob/master/result.gif?raw=true)
 
 # Where to find the dataset.
