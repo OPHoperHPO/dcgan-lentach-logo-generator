@@ -1,5 +1,5 @@
 # Keras DCGAN Lentach Logo generator.
-# This neural network generates the lentach logo.
+# This neural network generates 64x64 the lentach logo.
 ### Result of learn model:
 ![Alt Text](https://github.com/OPHoperHPO/dcgan-lentach-logo-generator/blob/master/result.gif?raw=true)
 
@@ -11,4 +11,5 @@ I do not own this dataset.
 ```python3 train.py``` - Train model
 ```python3 generate_single_image.py``` - Generate single image
 
-### Original source code: https://github.com/platonovsimeon/dcgan-facegenerator
+I modified train model script and wrote single image generator. =)
+Original neural network source code: https://github.com/platonovsimeon/dcgan-facegenerator
